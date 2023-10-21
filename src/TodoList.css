@@ -1,0 +1,33 @@
+.App{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;    
+}
+
+.vl {
+    border: 2px solid rgba(0,71,109,255);
+    height: 35px;
+    margin: 0 8px 0 8px;
+  }
+  
+  .Page{
+    margin-left: 16%;
+    background-color: rgba(223,223,223,255);
+    min-height: 85vh; 
+    display: flex;
+    flex-direction: column;    
+  }
+  .Footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 0px;
+  }
+.ft{
+    text-align: center;
+    font-size: 16px;
+}
+.card{
+    max-width: 600px;
+    padding: 30px;
+    margin: 0 auto;
+}
